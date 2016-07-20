@@ -1,0 +1,112 @@
+/* color scheme http://www.color-hex.com/color-palette/20924*/
+*{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    font-family: 'Shadows Into Light Two', cursive;
+    color:white;
+}
+
+.page{
+    width:960px;
+    margin: 0 auto;
+}
+
+a{
+    color:white;
+}
+
+.header{
+        background-color: #c195d7;
+        font-size:22px;
+        text-align: center;
+}
+
+.header li{
+    display:inline-block;
+    margin:.5% 5%;
+}
+
+h1{
+    font-family: 'Shadows Into Light Two', cursive;
+    color:#d3518e;
+}
+h2{    
+    color:#d3518e
+    
+}
+h3{
+    color:#d3518e;
+}
+
+p{
+    font-size: 20px;
+}
+
+.generalpink{
+    width:520px;
+    display:inline-block;
+    vertical-align:top;
+    background-color:#eda4e4;
+    color:white;
+    margin: 0px 5px;
+    padding: 5px 20px;
+}
+
+.generalpink img{
+    opacity: .5;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+    
+.subcat{
+    width: 520px;
+    background-color:#ff75a1;
+    margin: 0px 5px;
+    padding: 5px 20px;
+}
+
+.sidecontent{
+    display:inline-block;
+    position: absolute;
+    width: 300px;
+}
+
+#aboutPartners{
+    width:960px;
+    display:inline-block;
+    vertical-align:top;
+    background-color:#eda4e4;
+    color:white;
+    margin: 0px 10px;
+    text-align: center;
+}
+
+#aboutPartners img{
+    display:inline-block;  
+    padding:.5em 3em;
+}
+#myclasses{
+    text-align:center;
+    padding:1em;
+}
+
+#myclasses .generalpink{
+    width:250px;
+    padding:.5px;
+}
+
+.footer{
+    clear:both;
+    background-color:#c195d7;
+    font-size:16px;
+    text-align: center;
+}
+
+.rightbox{
+    width: 500px;
+}
